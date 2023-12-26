@@ -1,1 +1,2 @@
-"Hello world This is rajkumar"
+print ("Hello world This is rajkumar")
+
